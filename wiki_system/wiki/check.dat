@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<head>
+<!-- css -->
+<style type="text/css">
+</style>
+<!-- css -->
+<meta charset='utf-8'>
+<title>wiki</title>
+</head>
+
+<body>
+<h3>内容確認</h3>
+{{source}}
+{{error}}
+{{return}}
+<p><a href="./?edit">入力に戻る</a></p>
+<p><a href="./?send">送信</a></p>
+</body>
+</html>
