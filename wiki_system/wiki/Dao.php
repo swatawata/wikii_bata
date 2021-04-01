@@ -2,10 +2,10 @@
 
 class Dao
 {
-    const USER = "db_sho1111";
-    const PASSWORD = "OPxJBQbC";
-    const DB_NAME = "db_sho1111_1";
-    const TABLE_NAME = "wiki_info";
+    const USER = "";
+    const PASSWORD = "";
+    const DB_NAME = "";
+    const TABLE_NAME = "";
 
     private $pdo;
 
